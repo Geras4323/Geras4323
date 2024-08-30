@@ -21,6 +21,8 @@ Self-taught frontend developer with a desire for improvement
 <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 ‎ ‎ ‎
 <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+‎ ‎ ‎
+<img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />             
 </div>
 ‎
 <div align="center">
