@@ -1,7 +1,7 @@
 ### Hi! I'm German Göhringer
 Self-taught frontend developer with a desire for improvement
 
-- 💼 Proffesional portfolio: *https://geras4323-portfolio.vercel.app/*
+- 💼 Proffesional portfolio: *https://germangohringer.com.ar*
 - ✉️ You can reach me at *ggohringer432@gmail.com*
 - <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matias seitour" height="20" width="22" /> LinkedIn: *https://www.linkedin.com/in/german-gohringer/*
 ---
